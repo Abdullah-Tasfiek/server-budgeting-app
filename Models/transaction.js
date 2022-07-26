@@ -1,20 +1,23 @@
 module.exports = [
   {
-    date: "July 26",
-    name: "internet",
+    item: "Internet",
     amount: 54.25,
+    date: "July 26",
     from: "Verizon",
+    category: "Utility",
   },
   {
-    date: "July 10",
-    name: "coffee",
+    item: "Coffee",
     amount: 2,
+    date: "July 10",
     from: "Dunkin' Donuts",
+    category: "Food",
   },
   {
-    date: "June 1",
-    name: "Passport Renewal",
+    item: "Passport Renewal",
     amount: 75.33,
+    date: "June 1",
     from: "Passport Office",
+    category: "Travel",
   },
 ];
